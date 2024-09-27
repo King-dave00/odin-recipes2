@@ -1,0 +1,22 @@
+body{
+ background-color: rgb(221, 179, 148);
+ color:blue;
+}
+
+.tomato{
+ background-color: black;
+ margin-inline: 50px;
+ margin: 40px;
+  padding: 30px;
+  color: rgb(179, 26, 42);
+  border-color: yellow;
+}
+
+.rice{
+ color: rgb(4, 4, 84);
+  box-shadow: 60px;
+  text-decoration: overline;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(240, 30, 160);
+  margin: 10px;
+}

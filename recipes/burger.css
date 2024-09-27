@@ -1,0 +1,27 @@
+h1{
+ color: blue;
+ box-shadow: 60px;
+ text-decoration:overline;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ background-color: brown;
+ margin:50px;
+}
+
+.ing{
+ font-style: oblique;
+ font-size: larger;
+ font-family: monospace;
+ margin: 40px;
+ padding:30px;
+ color:rgb(179, 26, 42);
+ border-color:yellow;
+ background-color: cadetblue;
+}
+
+body{
+ background-color:rgb(179, 157, 106);
+}
+
+.burg{
+ border-radius: 70px;
+}
